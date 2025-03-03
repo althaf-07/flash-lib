@@ -1,3 +1,5 @@
 .venv/
 tmp/
 dist/
+poetry.lock
+.envrc
